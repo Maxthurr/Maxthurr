@@ -10,6 +10,5 @@ Interested primarily in AI, software engineering, computer graphics.
 # 📊 GitHub Stats:
 ![](./profile/stats.svg)
 ![](./profile/top-langs.svg)
-![](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
