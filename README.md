@@ -9,7 +9,7 @@
 - **AI and computer vision**
   - Experiments with supervised learning for neural networks (CNNs, sequence models) in an academic context
 - **Graphics & GPU**
-  -  PBR (ray tracing, GGX multifacet sampling, Monte Carlo methods)
+  -  Physics-Based Rendering (ray tracing, GGX multifacet sampling, Monte Carlo methods)
   -  GPU programming using HLSL
 
 # 💻 Tech Stack:
