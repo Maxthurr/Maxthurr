@@ -5,7 +5,7 @@
 
 - **Operating systems and low-level software**
   - POSIX Shell interpreter in C, memory management
-  - Focus on C and Linux (Ubuntu, Arch)
+  - Tiger language compiler in C++
 - **AI and computer vision**
   - Experiments with supervised learning for neural networks (CNNs, sequence models) in an academic context
 - **Graphics & GPU**
@@ -27,5 +27,3 @@
     <img src="./profile/top-langs.svg" />
   </div>
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
